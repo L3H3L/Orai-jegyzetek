@@ -1,0 +1,293 @@
+{
+  "main": {
+    "id": "7ef261f98e2fc238",
+    "type": "split",
+    "children": [
+      {
+        "id": "64b230e3eed7a611",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4f088c8dc2dbcb2f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Történelem/Középkor/3. Laboratores.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "3. Laboratores"
+            }
+          },
+          {
+            "id": "207d47c889cd4209",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Földrajz/Népesség -és településföldrajz/5. Vallási összetétel.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "5. Vallási összetétel"
+            }
+          },
+          {
+            "id": "46490bf64bd71987",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Földrajz/Népesség -és településföldrajz/5. Drawing 2025-10-07 10.55.08.excalidraw.md"
+              },
+              "icon": "lucide-ghost",
+              "title": "excalidraw"
+            }
+          },
+          {
+            "id": "8ae44315e7d69e04",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Irodalom/8. Összefoglalás.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "8. Összefoglalás"
+            }
+          },
+          {
+            "id": "291e1d57d4b8b764",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Történelem/Középkor/1. A Középkori Egyház.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1. A Középkori Egyház"
+            }
+          },
+          {
+            "id": "3788a2340c1c3841",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Történelem/Középkor/3. Laboratores.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "3. Laboratores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f5f89e2c280ca692",
+    "type": "split",
+    "children": [
+      {
+        "id": "ff4c30b9aa251985",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "373c90f389ef0bc1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "42a168540b275c64",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#excalidraw",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "f1e3ceb21974be7c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b1d91cfde6b88008",
+    "type": "split",
+    "children": [
+      {
+        "id": "617cfd2efaf31aa8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c705b7249cb3b0c6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Irodalom/Barokk.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Barokk"
+            }
+          },
+          {
+            "id": "202ebd479763403f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Történelem/Középkor/3. Laboratores.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 3. Laboratores"
+            }
+          },
+          {
+            "id": "9352073d659a480a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "96b9a0a517f456e0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Irodalom/Barokk.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Barokk"
+            }
+          },
+          {
+            "id": "5431dc9ada032f8b",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "4f088c8dc2dbcb2f",
+  "lastOpenFiles": [
+    "Történelem/Középkor/1. A Középkori Egyház.md",
+    "Történelem/Középkor/3. Laboratores.md",
+    "Történelem/Középkor/2. Oktatás.md",
+    "Földrajz/Atlasz.pdf",
+    "Jegyzetek",
+    "Történelem/Középkor/3. Laboratores Rajz.md",
+    "Irodalom/8. Összefoglalás.md",
+    "Irodalom/8. Összefoglalás gondolattérkép.md",
+    "Drawing 2025-10-07 13.50.34.excalidraw.md",
+    "Földrajz/Népesség -és településföldrajz/5. Drawing 2025-10-07 10.55.08.excalidraw.md",
+    "Földrajz/Népesség -és településföldrajz/5. Vallási összetétel.md",
+    "Földrajz/Atlasz.zip",
+    "Földrajz/Népesség -és településföldrajz/4. Rasszok (Emberfajták).md",
+    "Irodalom/7. A kuruc kor irodalma.md",
+    "Irodalom/Szöveggyűjteméy.pdf",
+    "Excalidraw/Drawing 2025-10-06 14.34.46.excalidraw.md",
+    "Excalidraw",
+    "Irodalom/6. Mikes kelemen Törökországi levelek.md",
+    "Irodalom/2. Barokk.md",
+    "Irodalom/3. A barokk Magyarországon.md",
+    "Magyar/3. A határozó és a jelző.md",
+    "Földrajz/Népesség -és településföldrajz/2. Népesedési átmenet szakaszai.md",
+    "Földrajz/Népesség -és településföldrajz/2. Népesedési átmenet szakaszai.excalidraw.md",
+    "Földrajz/Népesség -és településföldrajz/3. Népesség összetétel.md",
+    "Magyar/3. Drawing 2025-10-02 12.57.54.excalidraw.md",
+    "Történelem/Középkor/3. A jobbágyok kialakulása.md",
+    "Irodalom/5. Zrínyi Miklós Szigeti veszedelem.md",
+    "Irodalom/4. Zrínyi Miklós Portréja.md",
+    "Magyar/1. Az Állítmány.md",
+    "Irodalom/6. Szigeti veszedelem.md",
+    "Tartalom jegyzék",
+    "Képek",
+    "Képek/Pasted image 20250923104004.png",
+    "Képek/Pasted image 20250923103132.png",
+    "Képek",
+    "Földrajz/Népesség -és településföldrajz",
+    "Földrajz"
+  ]
+}

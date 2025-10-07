@@ -1,0 +1,57 @@
+{
+  "wallpaperPath": "plugins/live-wallpaper/wallpapers/active/normal/Untitled video - Made with Clipchamp.mp4",
+  "wallpaperType": "video",
+  "playbackSpeed": 1,
+  "Quality": false,
+  "Reposition": false,
+  "opacity": 12,
+  "zIndex": 5,
+  "blurRadius": 0,
+  "brightness": 103,
+  "HistoryPaths": [
+    {
+      "path": "plugins/live-wallpaper/wallpapers/history/Untitled video - Made with Clipchamp.mp4",
+      "type": "video",
+      "fileName": "Untitled video - Made with Clipchamp.mp4"
+    }
+  ],
+  "mobileBackgroundWidth": "100vw",
+  "mobileBackgroundHeight": "100vh",
+  "AdnvOpend": false,
+  "modalStyle": {
+    "effect": "blur+dim",
+    "blurRadius": 10,
+    "dimOpacity": 0.7,
+    "dimColor": "black",
+    "disableModalBg": false
+  },
+  "TextArenas": [
+    {
+      "attribute": ""
+    }
+  ],
+  "Color": "#000000",
+  "Position": "Center",
+  "PositionX": 50,
+  "PositionY": 50,
+  "Scale": 1,
+  "useObjectFit": true,
+  "INBUILD": false,
+  "SizeLimited": false,
+  "scheduledWallpapers": {
+    "wallpaperDayPaths": [],
+    "wallpaperWeekPaths": [],
+    "options": {
+      "dayNightMode": false,
+      "weekly": false,
+      "shuffle": false,
+      "dayStartTime": "08:00",
+      "nightStartTime": "20:00",
+      "intervalCheckTime": "00:10",
+      "isCustomInterval": false
+    },
+    "wallpaperDayTypes": [],
+    "wallpaperWeekTypes": []
+  },
+  "migrated": true
+}
