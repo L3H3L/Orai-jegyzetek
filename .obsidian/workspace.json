@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Történelem/Középkor/3. Laboratores.md",
+                "file": "Irodalom/8. Összefoglalás.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3. Laboratores"
+              "title": "8. Összefoglalás"
             }
           },
           {
@@ -225,8 +225,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "icon": "lucide-ghost",
+              "title": "git-view"
             }
           }
         ],
@@ -252,14 +252,19 @@
   },
   "active": "4f088c8dc2dbcb2f",
   "lastOpenFiles": [
-    "Történelem/Középkor/1. A Középkori Egyház.md",
+    "Irodalom/8. Összefoglalás gondolattérkép.md",
+    "Irodalom/8. Összefoglalás.md",
+    "Magyar/3. A határozó és a jelző.md",
+    "Magyar/2. Az alany és a tárgy.md",
+    "Magyar/2. Drawing 2025-09-25 12.36.13.excalidraw.md",
+    "Magyar/1. Drawing 2025-09-18 12.54.22.excalidraw.md",
+    "Magyar/1. Az Állítmány.md",
     "Történelem/Középkor/3. Laboratores.md",
+    "Történelem/Középkor/1. A Középkori Egyház.md",
     "Történelem/Középkor/2. Oktatás.md",
     "Földrajz/Atlasz.pdf",
     "Jegyzetek",
     "Történelem/Középkor/3. Laboratores Rajz.md",
-    "Irodalom/8. Összefoglalás.md",
-    "Irodalom/8. Összefoglalás gondolattérkép.md",
     "Drawing 2025-10-07 13.50.34.excalidraw.md",
     "Földrajz/Népesség -és településföldrajz/5. Drawing 2025-10-07 10.55.08.excalidraw.md",
     "Földrajz/Népesség -és településföldrajz/5. Vallási összetétel.md",
@@ -272,16 +277,12 @@
     "Irodalom/6. Mikes kelemen Törökországi levelek.md",
     "Irodalom/2. Barokk.md",
     "Irodalom/3. A barokk Magyarországon.md",
-    "Magyar/3. A határozó és a jelző.md",
     "Földrajz/Népesség -és településföldrajz/2. Népesedési átmenet szakaszai.md",
     "Földrajz/Népesség -és településföldrajz/2. Népesedési átmenet szakaszai.excalidraw.md",
     "Földrajz/Népesség -és településföldrajz/3. Népesség összetétel.md",
     "Magyar/3. Drawing 2025-10-02 12.57.54.excalidraw.md",
     "Történelem/Középkor/3. A jobbágyok kialakulása.md",
     "Irodalom/5. Zrínyi Miklós Szigeti veszedelem.md",
-    "Irodalom/4. Zrínyi Miklós Portréja.md",
-    "Magyar/1. Az Állítmány.md",
-    "Irodalom/6. Szigeti veszedelem.md",
     "Tartalom jegyzék",
     "Képek",
     "Képek/Pasted image 20250923104004.png",
