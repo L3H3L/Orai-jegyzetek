@@ -41,16 +41,40 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Magyar/4. A mondatok típusai.md",
+                "file": "Magyar/2. Az alany és a tárgy.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4. A mondatok típusai"
+              "title": "2. Az alany és a tárgy"
+            }
+          },
+          {
+            "id": "cac43ba718fc7775",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Irodalom/Szöveggyűjteméy.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Szöveggyűjteméy"
+            }
+          },
+          {
+            "id": "8fd7a85b161e4da3",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Magyar/4. Drawing 2025-10-09 12.36.32.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "4. Drawing 2025-10-09 12.36.32.excalidraw"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -211,39 +235,38 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7958f8bc2af99910",
+  "active": "8fd7a85b161e4da3",
   "lastOpenFiles": [
-    "Magyar/4. Drawing 2025-10-09 12.36.32.excalidraw.md",
-    "Magyar/1. Az Állítmány.md",
-    "Magyar/2. Az alany és a tárgy.md",
-    "Magyar/3. A határozó és a jelző.md",
-    "Magyar/4. A mondatok típusai.md",
-    "Magyar/3. Drawing 2025-10-02 12.57.54.excalidraw.md",
+    "Excalidraw/Drawing 2025-10-11 12.59.15.excalidraw.md",
+    "Excalidraw/Drawing 2025-10-11 13.07.23.excalidraw.md",
+    "Irodalom/Szöveggyűjteméy.pdf",
+    "Irodalom/8. Összefoglalás.md",
+    "Irodalom/7. A kuruc kor irodalma.md",
+    "Földrajz/Atlasz.pdf",
     "Magyar/2. Drawing 2025-09-25 12.36.13.excalidraw.md",
+    "Földrajz/Népesség -és településföldrajz/2. Népesedési átmenet szakaszai.excalidraw.md",
+    "Földrajz/Népesség -és településföldrajz/5. Drawing 2025-10-07 10.55.08.excalidraw.md",
+    "Magyar/2. Az alany és a tárgy.md",
+    "Excalidraw",
+    "Magyar/3. Drawing 2025-10-02 12.57.54.excalidraw.md",
+    "Magyar/4. Drawing 2025-10-09 12.36.32.excalidraw.md",
+    "Történelem/Középkor/3. Laboratores Rajz.md",
+    "Földrajz/Népesség -és településföldrajz/1. Népesség Földrajz.md",
+    "Földrajz/Népesség -és településföldrajz/2. Népesedési átmenet szakaszai.md",
+    "Irodalom/4. Zrínyi Miklós Portréja.md",
+    "Irodalom/6. Mikes kelemen Törökországi levelek.md",
+    "Magyar/4. A mondatok típusai.md",
+    "Magyar/1. Az Állítmány.md",
+    "Magyar/3. A határozó és a jelző.md",
     "Magyar/10..md",
     "Történelem/Középkor/1. A Középkori Egyház.md",
     "Történelem/Középkor/3. Laboratores.md",
     "Történelem/Középkor/2. Oktatás.md",
-    "Irodalom/8. Összefoglalás.md",
-    "Földrajz/Népesség -és településföldrajz/5. Drawing 2025-10-07 10.55.08.excalidraw.md",
     "Földrajz/Népesség -és településföldrajz/5. Vallási összetétel.md",
-    "Földrajz/Népesség -és településföldrajz/1. Népesség Földrajz.md",
-    "Történelem/Középkor/3. Laboratores Rajz.md",
     "Irodalom/8. Összefoglalás gondolattérkép.md",
     "Magyar/1. Drawing 2025-09-18 12.54.22.excalidraw.md",
-    "Földrajz/Atlasz.pdf",
     "Jegyzetek",
-    "Drawing 2025-10-07 13.50.34.excalidraw.md",
     "Földrajz/Atlasz.zip",
-    "Földrajz/Népesség -és településföldrajz/4. Rasszok (Emberfajták).md",
-    "Irodalom/7. A kuruc kor irodalma.md",
-    "Irodalom/Szöveggyűjteméy.pdf",
-    "Excalidraw/Drawing 2025-10-06 14.34.46.excalidraw.md",
-    "Excalidraw",
-    "Irodalom/6. Mikes kelemen Törökországi levelek.md",
-    "Irodalom/2. Barokk.md",
-    "Irodalom/3. A barokk Magyarországon.md",
-    "Földrajz/Népesség -és településföldrajz/2. Népesedési átmenet szakaszai.md",
     "Tartalom jegyzék",
     "Képek",
     "Képek/Pasted image 20250923104004.png",
