@@ -8,73 +8,63 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1669baee19758cc6",
+            "id": "e8760f4182a8d2eb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Magyar/3. A határozó és a jelző.md",
+                "file": "Irodalom/A barokk/5. Mikes Kelemen Törökországi levelek.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3. A határozó és a jelző"
+              "title": "5. Mikes Kelemen Törökországi levelek"
             }
           },
           {
-            "id": "ab80e93c9dd65076",
+            "id": "1545ecf713d6e6b7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Magyar/4. A mondatok típusai.md",
+                "file": "Kémia/1. Telített szénhidrogének.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4. A mondatok típusai"
+              "title": "1. Telített szénhidrogének"
             }
           },
           {
-            "id": "7958f8bc2af99910",
+            "id": "d564b5212759fd85",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Magyar/2. Az alany és a tárgy.md",
+                "file": "Kémia/1. Telített szénhidrogének.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2. Az alany és a tárgy"
+              "title": "1. Telített szénhidrogének"
             }
           },
           {
-            "id": "cac43ba718fc7775",
+            "id": "53f8a0bdb6cbc524",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Irodalom/Szöveggyűjteméy.pdf"
+                "file": "Kémia/1. Telített szénhidrogének.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Szöveggyűjteméy"
-            }
-          },
-          {
-            "id": "8fd7a85b161e4da3",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Magyar/4. Drawing 2025-10-09 12.36.32.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "4. Drawing 2025-10-09 12.36.32.excalidraw"
+              "icon": "lucide-file",
+              "title": "1. Telített szénhidrogének"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -147,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Irodalom/Barokk.md",
+                "file": "Irodalom/A barokk/5. Mikes Kelemen Törökországi levelek.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +147,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Barokk"
+              "title": "Backlinks for 5. Mikes Kelemen Törökországi levelek"
             }
           },
           {
@@ -214,8 +204,7 @@
               "title": "Source Control"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -235,44 +224,48 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8fd7a85b161e4da3",
+  "active": "53f8a0bdb6cbc524",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2025-10-11 12.59.15.excalidraw.md",
-    "Excalidraw/Drawing 2025-10-11 13.07.23.excalidraw.md",
-    "Irodalom/Szöveggyűjteméy.pdf",
-    "Irodalom/8. Összefoglalás.md",
-    "Irodalom/7. A kuruc kor irodalma.md",
-    "Földrajz/Atlasz.pdf",
-    "Magyar/2. Drawing 2025-09-25 12.36.13.excalidraw.md",
-    "Földrajz/Népesség -és településföldrajz/2. Népesedési átmenet szakaszai.excalidraw.md",
-    "Földrajz/Népesség -és településföldrajz/5. Drawing 2025-10-07 10.55.08.excalidraw.md",
-    "Magyar/2. Az alany és a tárgy.md",
-    "Excalidraw",
-    "Magyar/3. Drawing 2025-10-02 12.57.54.excalidraw.md",
+    "Földrajz/Népesség- és településföldrajz/2. Népesedési átmenet szakaszai.md",
+    "Földrajz/Népesség- és településföldrajz/3. Népesség összetétel.md",
+    "Földrajz/Népesség- és településföldrajz/1. Népesség Földrajz.md",
+    "Kémia/1. Telített szénhidrogének.md",
+    "Földrajz/Népesség- és településföldrajz/2. Népesedési átmenet szakaszai.excalidraw.md",
+    "Kémia/Rajzok/1. Drawing 2025-10-13 10.34.05.excalidraw.md",
     "Magyar/4. Drawing 2025-10-09 12.36.32.excalidraw.md",
-    "Történelem/Középkor/3. Laboratores Rajz.md",
-    "Földrajz/Népesség -és településföldrajz/1. Népesség Földrajz.md",
-    "Földrajz/Népesség -és településföldrajz/2. Népesedési átmenet szakaszai.md",
-    "Irodalom/4. Zrínyi Miklós Portréja.md",
-    "Irodalom/6. Mikes kelemen Törökországi levelek.md",
-    "Magyar/4. A mondatok típusai.md",
+    "Drawing 2025-10-13 10.28.20.excalidraw.md",
+    "Irodalom/A barokk/4. Zrínyi Miklós Szigeti veszedelem.md",
+    "Irodalom/A barokk/3. Zrínyi Miklós Portréja.md",
+    "Irodalom/A barokk/5. Mikes Kelemen Törökországi levelek.md",
     "Magyar/1. Az Állítmány.md",
+    "Magyar/4. A mondatok típusai.md",
+    "Kémia/Rajzok",
+    "Kémia",
+    "Untitled 1",
+    "Untitled/Untitled 1/Untitled 2/Untitled 3/Untitled 4/Untitled 5/Untitled 6/Untitled 7/Untitled 8/Untitled 9/Untitled 10/Untitled 1/Untitled 2/Untitled 3/Untitled 4/Untitled 5/Untitled 1/Untitled 1/Untitled 2/Untitled 3/Untitled 4/Untitled 5/Untitled 6/Untitled 7/Untitled 8/Untitled 9/Untitled 10/Untitled 11",
+    "Untitled/Untitled 1/Untitled 2/Untitled 3/Untitled 4/Untitled 5/Untitled 6/Untitled 7/Untitled 8/Untitled 9/Untitled 10/Untitled 1/Untitled 2/Untitled 3/Untitled 4/Untitled 5/Untitled 1/Untitled 1/Untitled 2/Untitled 3/Untitled 4/Untitled 5/Untitled 6/Untitled 7/Untitled 8/Untitled 9/Untitled 10",
+    "Untitled/Untitled 1/Untitled 2/Untitled 3/Untitled 4/Untitled 5/Untitled 6/Untitled 7/Untitled 8/Untitled 9/Untitled 10/Untitled 1/Untitled 2/Untitled 3/Untitled 4/Untitled 5/Untitled 1/Untitled 1/Untitled 2/Untitled 3/Untitled 4/Untitled 5/Untitled 6/Untitled 7/Untitled 8/Untitled 9",
+    "Untitled/Untitled 1/Untitled 2/Untitled 3/Untitled 4/Untitled 5/Untitled 6/Untitled 7/Untitled 8/Untitled 9/Untitled 10/Untitled 1/Untitled 2/Untitled 3/Untitled 4/Untitled 5/Untitled 1/Untitled 1/Untitled 2/Untitled 3/Untitled 4/Untitled 5/Untitled 6/Untitled 7/Untitled 8",
+    "Untitled/Untitled 1/Untitled 2/Untitled 3/Untitled 4/Untitled 5/Untitled 6/Untitled 7/Untitled 8/Untitled 9/Untitled 10/Untitled 1/Untitled 2/Untitled 3/Untitled 4/Untitled 5/Untitled 1/Untitled 1/Untitled 2/Untitled 3/Untitled 4/Untitled 5/Untitled 6/Untitled 7",
+    "Untitled/Untitled 1/Untitled 2/Untitled 3/Untitled 4/Untitled 5/Untitled 6/Untitled 7/Untitled 8/Untitled 9/Untitled 10/Untitled 1/Untitled 2/Untitled 3/Untitled 4/Untitled 5/Untitled 1/Untitled 1/Untitled 2/Untitled 3/Untitled 4/Untitled 5/Untitled 6",
+    "Untitled/Untitled 1/Untitled 2/Untitled 3/Untitled 4/Untitled 5/Untitled 6/Untitled 7/Untitled 8/Untitled 9/Untitled 10/Untitled 1/Untitled 2/Untitled 3/Untitled 4/Untitled 5/Untitled 1/Untitled 1/Untitled 2/Untitled 3/Untitled 4/Untitled 5",
+    "Drawing 2025-10-12 22.31.17.excalidraw.md",
+    "Drawing 2025-10-12 21.08.04.excalidraw.md",
+    "Földrajz/Népesség- és településföldrajz/5. Vallási összetétel.md",
+    "Földrajz/Népesség- és településföldrajz/5. Drawing 2025-10-07 10.55.08.excalidraw.md",
+    "Földrajz/Népesség- és településföldrajz/4. Rasszok (Emberfajták).md",
+    "Irodalom/A barokk/7. Összefoglalás.md",
+    "Irodalom/A barokk/1. Barokk.md",
     "Magyar/3. A határozó és a jelző.md",
-    "Magyar/10..md",
-    "Történelem/Középkor/1. A Középkori Egyház.md",
+    "Magyar/2. Az alany és a tárgy.md",
+    "Irodalom/Ismétlés.md",
+    "Irodalom/A barokk/6. A kuruc kor irodalma.md",
+    "Irodalom/A barokk/2. A barokk Magyarországon.md",
     "Történelem/Középkor/3. Laboratores.md",
-    "Történelem/Középkor/2. Oktatás.md",
-    "Földrajz/Népesség -és településföldrajz/5. Vallási összetétel.md",
-    "Irodalom/8. Összefoglalás gondolattérkép.md",
-    "Magyar/1. Drawing 2025-09-18 12.54.22.excalidraw.md",
-    "Jegyzetek",
-    "Földrajz/Atlasz.zip",
-    "Tartalom jegyzék",
-    "Képek",
+    "Excalidraw/Scripts/Downloaded/ExcaliAI.svg",
+    "Excalidraw/Scripts/Downloaded/Mindmap format.svg",
+    "Excalidraw/Scripts/Downloaded/Add Link to Existing File and Open.svg",
     "Képek/Pasted image 20250923104004.png",
-    "Képek/Pasted image 20250923103132.png",
-    "Képek",
-    "Földrajz/Népesség -és településföldrajz",
-    "Földrajz"
+    "Képek/Pasted image 20250923103132.png"
   ]
 }

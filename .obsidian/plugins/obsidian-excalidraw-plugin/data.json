@@ -107,7 +107,7 @@
   "library2": {
     "type": "excalidrawlib",
     "version": 2,
-    "source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/2.15.3",
+    "source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/2.16.1",
     "libraryItems": []
   },
   "imageElementNotice": true,
@@ -119,7 +119,8 @@
   "mdCSS": "",
   "scriptEngineSettings": {},
   "defaultTrayMode": true,
-  "previousRelease": "2.15.3",
+  "compactModeOnTablets": true,
+  "previousRelease": "2.16.1",
   "showReleaseNotes": true,
   "compareManifestToPluginVersion": true,
   "showNewVersionNotification": true,
@@ -480,7 +481,7 @@
   "canvasImmersiveEmbed": true,
   "startupScriptPath": "",
   "aiEnabled": true,
-  "openAIAPIToken": "",
+  "openAIAPIToken": "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",
   "openAIDefaultTextModel": "gpt-3.5-turbo-1106",
   "openAIDefaultVisionModel": "gpt-4o",
   "openAIDefaultImageGenerationModel": "dall-e-3",
