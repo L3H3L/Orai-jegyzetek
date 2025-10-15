@@ -73,3 +73,5 @@ Függvény Hozzaad5(v: Verem[Egész]): Verem[Egész]
     Hozzaad5 := u
 Függvény vége
 ```
+
+![](https://upload.wikimedia.org/wikipedia/commons/2/24/Shunting_yard.svg)
