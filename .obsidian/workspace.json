@@ -90,9 +90,35 @@
               "icon": "lucide-file",
               "title": "1. Anyagcsere"
             }
+          },
+          {
+            "id": "dab7f5b66c357f3b",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Földrajz/Népesség- és településföldrajz/5. Drawing 2025-10-07 10.55.08.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "5. Drawing 2025-10-07 10.55.08.excalidraw"
+            }
+          },
+          {
+            "id": "a5fa86b800ac099a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Földrajz/Népesség- és településföldrajz/7. Népesség területi eloszlása.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "7. Népesség területi eloszlása"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -252,38 +278,37 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "84bc24b88067af8a",
+  "active": "a5fa86b800ac099a",
   "lastOpenFiles": [
-    "Biológia/Drawing 2025-10-16 13.43.48.excalidraw.md",
+    "Földrajz/Atlasz.pdf",
+    "Földrajz/Népesség- és településföldrajz/7. Népesség területi eloszlása.md",
+    "Földrajz/Népesség- és településföldrajz/5. Drawing 2025-10-07 10.55.08.excalidraw.md",
+    "Földrajz/Népesség- és településföldrajz/6. Etnika.md",
+    "Földrajz/Népesség- és településföldrajz/5. Vallási összetétel.md",
+    "Földrajz/Népesség- és településföldrajz/4. Rasszok (Emberfajták).md",
+    "Földrajz/Népesség- és településföldrajz/3. Népesség összetétel.md",
+    "Irodalom/1. A barokk/7. Összefoglalás.md",
+    "Földrajz/Népesség- és településföldrajz/2. Népesedési átmenet szakaszai.excalidraw.md",
+    "Földrajz/Népesség- és településföldrajz/2. Népesedési átmenet szakaszai.md",
+    "Földrajz/Népesség- és településföldrajz/1. Népesség Földrajz.md",
+    "Irodalom/Moliere - A fösvény.md",
+    "Irodalom/Ismétlés.md",
+    "Irodalom/2. Klasszicizmus/1. A Francia klasszicista színház és dráma.md",
     "Biológia/1. Anyagcsere.md",
+    "Biológia/Drawing 2025-10-16 13.43.48.excalidraw.md",
     "Magyar/5. Az írásjelek használata.md",
     "Biológia",
     "Magyar/4. Drawing 2025-10-16 12.48.28.excalidraw.md",
     "Magyar/4. A mondatok típusai.md",
     "Magyar/4. Drawing 2025-10-09 12.36.32.excalidraw.md",
     "Infó összefoglalás (kinda).md",
-    "Földrajz/Népesség- és településföldrajz/3. Népesség összetétel.md",
-    "Földrajz/Népesség- és településföldrajz/2. Népesedési átmenet szakaszai.excalidraw.md",
-    "Földrajz/Népesség- és településföldrajz/2. Népesedési átmenet szakaszai.md",
     "Drawing 2025-10-15 13.53.00.excalidraw.md",
-    "Földrajz/Népesség- és településföldrajz/6. Etnika.md",
-    "Földrajz/Atlasz.pdf",
-    "Földrajz/Népesség- és településföldrajz/5. Vallási összetétel.md",
-    "Irodalom/1. A barokk/7. Összefoglalás.md",
     "Drawing 2025-10-14 10.05.38.excalidraw.md",
     "Irodalom/1. A barokk/6. A kuruc kor irodalma.md",
-    "Irodalom/2. Klasszicizmus/1. A Francia klasszicista színház és dráma.md",
     "Irodalom/1. A barokk/1. Barokk.md",
     "Irodalom/1. A barokk/2. A barokk Magyarországon.md",
     "Irodalom/Szöveggyűjteméy.pdf",
     "Irodalom/2. Klasszicizmus",
-    "Kémia/1. Telített szénhidrogének.md",
-    "Földrajz/Népesség- és településföldrajz/1. Népesség Földrajz.md",
-    "Kémia/Rajzok/1. Drawing 2025-10-13 10.34.05.excalidraw.md",
-    "Drawing 2025-10-13 10.28.20.excalidraw.md",
-    "Irodalom/1. A barokk/4. Zrínyi Miklós Szigeti veszedelem.md",
-    "Irodalom/1. A barokk/3. Zrínyi Miklós Portréja.md",
-    "Irodalom/1. A barokk/5. Mikes Kelemen Törökországi levelek.md",
     "Kémia/Rajzok",
     "Kémia",
     "Untitled 1",
