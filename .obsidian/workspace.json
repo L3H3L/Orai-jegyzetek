@@ -69,16 +69,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Történelem/Középkor/5. A középkori városok.md",
+                "file": "Biológia/1. Anyagcsere.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5. A középkori városok"
+              "title": "1. Anyagcsere"
+            }
+          },
+          {
+            "id": "670744d2d5561c55",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Biológia/Rajzok/1. Drawing 2025-11-05 12.56.25.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "1. Drawing 2025-11-05 12.56.25.excalidraw"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -238,12 +250,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "76ceb49d2f618417",
+  "active": "670744d2d5561c55",
   "lastOpenFiles": [
+    "Biológia/Rajzok/1. Drawing 2025-11-05 12.56.25.excalidraw.md",
+    "Magyar/4. Drawing 2025-10-16 12.48.28.excalidraw.md",
+    "Biológia/1. Anyagcsere.md",
+    "Kémia/1. Telített szénhidrogének.md",
+    "Biológia/Rajzok/1. Drawing 2025-10-16 13.43.48.excalidraw.md",
+    "Biológia/Rajzok/1. Drawing 2025-10-22 12.29.09.excalidraw.md",
+    "Történelem/Középkor/5. A középkori városok.md",
     "Történelem/Középkor/3. Laboratores.md",
     "Történelem/Középkor/3. Laboratores Rajz.md",
     "Történelem/Középkor/4. Bellatores.md",
-    "Történelem/Középkor/5. A középkori városok.md",
     "Analitikus fa.md",
     "Földrajz/Népesség- és településföldrajz/Népességföldrajz/1. Népesség Földrajz.md",
     "Földrajz/Népesség- és településföldrajz/Népességföldrajz",
@@ -254,20 +272,14 @@
     "Földrajz/Népesség- és településföldrajz/Népességföldrajz/2. Népesedési átmenet szakaszai.excalidraw.md",
     "Földrajz/Népesség- és településföldrajz/Népességföldrajz/6. Etnika.md",
     "Infó összefoglalás (kinda).md",
-    "Magyar/4. Drawing 2025-10-16 12.48.28.excalidraw.md",
     "Történelem/Középkor/5. Drawing 2025-11-03 12.58.41.excalidraw.md",
     "Kémia/Rajzok/1. Drawing 2025-10-13 10.34.05.excalidraw.md",
-    "Kémia/1. Telített szénhidrogének.md",
     "Kémia/Rajzok/1. Drawing 2025-11-03 10.45.47.excalidraw.md",
-    "Biológia/1. Anyagcsere.md",
-    "Biológia/Rajzok/1. Drawing 2025-10-16 13.43.48.excalidraw.md",
     "Földrajz/Népesség- és településföldrajz/Népességföldrajz/5. Drawing 2025-10-07 10.55.08.excalidraw.md",
     "Biológia/Rajzok",
     "Magyar/5. Az írásjelek használata.md",
     "Magyar/4. A mondatok típusai.md",
     "Irodalom/1. A barokk/7. Összefoglalás.md",
-    "Biológia/Rajzok/1. Drawing 2025-10-22 12.29.09.excalidraw.md",
-    "Irodalom/1. A barokk/6. A kuruc kor irodalma.md",
     "Földrajz/Atlasz.pdf",
     "Biológia",
     "Irodalom/Szöveggyűjteméy.pdf",
