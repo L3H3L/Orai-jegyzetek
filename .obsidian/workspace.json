@@ -34,9 +34,51 @@
               "icon": "lucide-file",
               "title": "6. Rendiség"
             }
+          },
+          {
+            "id": "c0429279088443c3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Biológia/1. Anyagcsere.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1. Anyagcsere"
+            }
+          },
+          {
+            "id": "d206c669d02b91d1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Biológia/1. Anyagcsere.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1. Anyagcsere"
+            }
+          },
+          {
+            "id": "70d35f48e8506ab1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Biológia/1. Anyagcsere.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1. Anyagcsere"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -196,8 +238,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5431dc9ada032f8b",
+  "active": "70d35f48e8506ab1",
   "lastOpenFiles": [
+    "Biológia/Rajzok/Drawing 2025-11-12 12.53.35.excalidraw.md",
+    "Biológia/Rajzok/1. Drawing 2025-11-12 12.44.18.excalidraw.md",
+    "Biológia/Rajzok/1. Drawing 2025-11-05 12.56.25.excalidraw.md",
+    "Biológia/Rajzok/1. Drawing 2025-11-07 10.02.38.excalidraw.md",
+    "Biológia/Rajzok/1. Drawing 2025-10-22 12.29.09.excalidraw.md",
+    "Biológia/1. Anyagcsere.md",
+    "Történelem/Középkor/5. Drawing 2025-11-03 12.58.41.excalidraw.md",
     "Történelem/Középkor/5. A középkori városok.md",
     "6. Rendiség.md",
     "Irodalom/2. Klasszicizmus/3. A felvilágosodás.md",
@@ -214,19 +263,12 @@
     "Történelem/Középkor/4. Bellatores.md",
     "Történelem/Középkor/3. Laboratores Rajz.md",
     "Történelem/Középkor/2. Oktatás.md",
-    "Történelem/Középkor/5. Drawing 2025-11-03 12.58.41.excalidraw.md",
     "Kémia/1. Telített szénhidrogének.md",
     "Kémia/Rajzok/1. Drawing 2025-11-10 10.50.17.excalidraw.md",
     "Kémia/Rajzok/1. Drawing 2025-10-13 10.34.05.excalidraw.md",
     "Kémia/Rajzok/1. Drawing 2025-11-03 10.45.47.excalidraw.md",
     "Irodalom/Moliere - A fösvény.md",
-    "Biológia/1. Anyagcsere.md",
-    "Biológia/Rajzok/1. Drawing 2025-11-07 10.02.38.excalidraw.md",
-    "Biológia/Rajzok/1. Drawing 2025-11-05 12.56.25.excalidraw.md",
     "Magyar/6..md",
-    "Magyar/5. Az írásjelek használata.md",
-    "Magyar/4. Drawing 2025-10-16 12.48.28.excalidraw.md",
-    "Biológia/Rajzok/1. Drawing 2025-10-16 13.43.48.excalidraw.md",
     "Földrajz/Népesség- és településföldrajz/Népességföldrajz",
     "Biológia/Rajzok",
     "Biológia",
