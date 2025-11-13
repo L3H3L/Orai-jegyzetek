@@ -67,18 +67,28 @@
             "id": "70d35f48e8506ab1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Biológia/1. Anyagcsere.md",
-                "mode": "source",
-                "source": false
+                "file": "Magyar/3. Drawing 2025-10-02 12.57.54.excalidraw.md"
               },
-              "icon": "lucide-file",
-              "title": "1. Anyagcsere"
+              "icon": "excalidraw-icon",
+              "title": "3. Drawing 2025-10-02 12.57.54.excalidraw"
+            }
+          },
+          {
+            "id": "755b6544a8ff10f6",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Magyar/Egyszerű mondatok gyarkorlás (doga előtt).md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Egyszerű mondatok gyarkorlás (doga előtt)"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -238,14 +248,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "373c90f389ef0bc1",
+  "active": "755b6544a8ff10f6",
   "lastOpenFiles": [
+    "Magyar/5. Az írásjelek használata.md",
+    "Magyar/Egyszerű mondatok gyarkorlás (doga előtt).md",
+    "Untitled.md",
+    "Magyar/3. Drawing 2025-10-02 12.57.54.excalidraw.md",
+    "Magyar/2. Drawing 2025-09-25 12.36.13.excalidraw.md",
+    "Magyar/4. A mondatok típusai.md",
+    "Biológia/1. Anyagcsere.md",
     "Biológia/Rajzok/1. Drawing 2025-11-12 12.53.35.excalidraw.md",
     "Biológia/Rajzok/1. Drawing 2025-11-12 12.44.18.excalidraw.md",
     "Biológia/Rajzok/1. Drawing 2025-11-05 12.56.25.excalidraw.md",
     "Biológia/Rajzok/1. Drawing 2025-11-07 10.02.38.excalidraw.md",
     "Biológia/Rajzok/1. Drawing 2025-10-22 12.29.09.excalidraw.md",
-    "Biológia/1. Anyagcsere.md",
     "Történelem/Középkor/5. Drawing 2025-11-03 12.58.41.excalidraw.md",
     "Történelem/Középkor/5. A középkori városok.md",
     "6. Rendiség.md",
@@ -263,12 +279,6 @@
     "Történelem/Középkor/4. Bellatores.md",
     "Történelem/Középkor/3. Laboratores Rajz.md",
     "Történelem/Középkor/2. Oktatás.md",
-    "Kémia/1. Telített szénhidrogének.md",
-    "Kémia/Rajzok/1. Drawing 2025-11-10 10.50.17.excalidraw.md",
-    "Kémia/Rajzok/1. Drawing 2025-10-13 10.34.05.excalidraw.md",
-    "Kémia/Rajzok/1. Drawing 2025-11-03 10.45.47.excalidraw.md",
-    "Irodalom/Moliere - A fösvény.md",
-    "Magyar/6..md",
     "Földrajz/Népesség- és településföldrajz/Népességföldrajz",
     "Biológia/Rajzok",
     "Biológia",
