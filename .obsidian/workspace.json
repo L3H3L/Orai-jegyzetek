@@ -8,89 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0520fa410dafb9a3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Történelem/Középkor/5. A középkori városok.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "5. A középkori városok"
-            }
-          },
-          {
-            "id": "4cf3e4690f766c1a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6. Rendiség.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "6. Rendiség"
-            }
-          },
-          {
-            "id": "c0429279088443c3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Biológia/1. Anyagcsere.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1. Anyagcsere"
-            }
-          },
-          {
-            "id": "d206c669d02b91d1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Biológia/1. Anyagcsere.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1. Anyagcsere"
-            }
-          },
-          {
-            "id": "70d35f48e8506ab1",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Magyar/3. Drawing 2025-10-02 12.57.54.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "3. Drawing 2025-10-02 12.57.54.excalidraw"
-            }
-          },
-          {
-            "id": "755b6544a8ff10f6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Biológia/1. Anyagcsere.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1. Anyagcsere"
-            }
-          },
-          {
-            "id": "9d676b4db5375399",
+            "id": "711119d9da8a63ba",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -102,21 +20,8 @@
               "icon": "lucide-file",
               "title": "2. Sejtalkotók"
             }
-          },
-          {
-            "id": "711119d9da8a63ba",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "2. Drawing 2025-11-13 14.03.40.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "2. Drawing 2025-11-13 14.03.40.excalidraw"
-            }
           }
-        ],
-        "currentTab": 7
+        ]
       }
     ],
     "direction": "vertical"
@@ -273,15 +178,17 @@
       "command-palette:Open command palette": true,
       "bases:Create new base": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "excel:Create Excel File": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
   "active": "711119d9da8a63ba",
   "lastOpenFiles": [
-    "Magyar/Egyszerű mondatok gyarkorlás (doga előtt).md",
-    "2. Drawing 2025-11-13 14.03.40.excalidraw.md",
-    "Biológia/2. Sejtalkotók.md",
     "Biológia/1. Anyagcsere.md",
+    "Biológia/2. Sejtalkotók.md",
+    "Biológia/Rajzok/2. Drawing 2025-11-13 14.03.40.excalidraw.md",
+    "Magyar/Egyszerű mondatok gyarkorlás (doga előtt).md",
     "Biológia/Rajzok/1. Drawing 2025-11-12 12.53.35.excalidraw.md",
     "Biológia/Rajzok/1. Drawing 2025-11-12 12.44.18.excalidraw.md",
     "Történelem/Középkor/6. Rendiség.md",
