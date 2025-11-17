@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Biológia/2. Sejtalkotók.md",
+                "file": "Kémia/1. Telített szénhidrogének.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2. Sejtalkotók"
+              "title": "1. Telített szénhidrogének"
             }
           }
         ]
@@ -179,14 +179,17 @@
       "bases:Create new base": false,
       "obsidian-excalidraw-plugin:New drawing": false,
       "obsidian-git:Open Git source control": false,
-      "excel:Create Excel File": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "excel:Create Excel File": false
     }
   },
   "active": "711119d9da8a63ba",
   "lastOpenFiles": [
-    "Biológia/1. Anyagcsere.md",
+    "Kémia/Rajzok/1. Drawing 2025-11-10 10.50.17.excalidraw.md",
+    "Kémia/1. Telített szénhidrogének.md",
+    "Kémia/Rajzok/1. Drawing 2025-10-13 10.34.05.excalidraw.md",
+    "Kémia/Rajzok/1. Drawing 2025-11-03 10.45.47.excalidraw.md",
     "Biológia/2. Sejtalkotók.md",
+    "Biológia/1. Anyagcsere.md",
     "Biológia/Rajzok/2. Drawing 2025-11-13 14.03.40.excalidraw.md",
     "Magyar/Egyszerű mondatok gyarkorlás (doga előtt).md",
     "Biológia/Rajzok/1. Drawing 2025-11-12 12.53.35.excalidraw.md",
@@ -208,12 +211,8 @@
     "Irodalom/Ismétlés.md",
     "Irodalom/2. Klasszicizmus/1. A Francia klasszicista színház és dráma.md",
     "Infó összefoglalás (kinda).md",
-    "Analitikus fa.md",
     "Földrajz/Népesség- és településföldrajz/Településföldrajz",
     "Pasted Image 20251106083916_203.png",
-    "Történelem/Középkor/3. Laboratores.md",
-    "Történelem/Középkor/4. Bellatores.md",
-    "Történelem/Középkor/3. Laboratores Rajz.md",
     "Földrajz/Népesség- és településföldrajz/Népességföldrajz",
     "Biológia/Rajzok",
     "Biológia",
