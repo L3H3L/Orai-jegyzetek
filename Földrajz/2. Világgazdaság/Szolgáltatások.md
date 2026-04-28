@@ -1,0 +1,31 @@
+- Számlák
+	- Folyószámla intézése
+		- Célja: sok tranzakció bonyolódjon rajta olcsón
+		- Nem kamatozik
+	- Megtakarítási számla
+		- Nem lehet sok tranzakciót bonyolítani
+	- Hitelszámla
+		- Bank pénze
+		- Vissza kell fizetni
+	- Devizaszámla
+- Hitel
+	- Kölcsön kapsz a banktól
+	- Hitel ára a kamat
+	- Törlesztés: hitel visszafizetési folyamata
+		- Kisebb részlegekben: törlesztőrészleg
+		- Végtörlesztés: egyben mindent kifizetsz
+		- Előtörlesztés: többet törlesztesz mint az adott havi törlesztőrészleg
+	- Futamidő: az az idő ami alatt visszafizeted a hitelt
+	- Fix kamatozású hitel
+		- Kiszámítható
+	- Változó kamatozású hitel
+	- Típusok
+		- Diákhitel
+		- Lakáshitel
+		- Személyi kölcsön
+		- Jelzáloghitel
+		- Babaváró hitel
+		- Gépjárműhitel
+		- Áruhitel
+		- Személyi kölcsön
+		- Szabad felhasználású hitel
