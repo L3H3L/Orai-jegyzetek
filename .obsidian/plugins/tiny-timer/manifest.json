@@ -1,0 +1,10 @@
+{
+	"id": "tiny-timer",
+	"name": "Tiny Timer",
+	"version": "1.0.1",
+	"minAppVersion": "1.0.0",
+	"description": "Minimal floating timer widget with keyboard-first input, procedural alarm, and theme-aware clock face.",
+	"author": "Amin Ica",
+	"authorUrl": "https://github.com/rezgi",
+	"isDesktopOnly": true
+}
