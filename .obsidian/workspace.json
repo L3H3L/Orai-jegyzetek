@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "11. F/Történelem/3. Reformáció.md",
+                "file": "11. F/Történelem/3. Reformáció/1. Reformáció.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3. Reformáció"
+              "title": "1. Reformáció"
             }
           },
           {
@@ -27,16 +27,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "11. F/Történelem/3. Reformáció.md",
+                "file": "11. F/Történelem/3. Reformáció/1. Reformáció.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3. Reformáció"
+              "title": "1. Reformáció"
+            }
+          },
+          {
+            "id": "28e1a87f142f7a46",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "11. F/Irodalom/6. Petőfi Sándor.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "6. Petőfi Sándor"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -200,19 +214,29 @@
       "widgets:Add widget": false
     }
   },
-  "active": "3881d7bca4b930d4",
+  "active": "28e1a87f142f7a46",
   "lastOpenFiles": [
-    "11. F/Irodalom/6. Petőfi Sándor.md",
-    "11. F/Irodalom/5. Rapszódia.md",
     "11. F/Irodalom/4. Vörösmarty Mihály.md",
+    "11. F/Történelem/4. Magyarország a kora újkorban/1. Mohácsi vész és a királyi hatalom meggyengülése.md",
+    "11. F/Történelem/3. Reformáció/3. Ellenreformáció.md",
+    "11. F/Történelem/4. Magyarország a kora újkorban",
+    "11. F/Történelem/3. Reformáció/1. Reformáció.md",
+    "11. F/Történelem/3. Reformáció/2. Vallásháborúk.md",
+    "11. F/Irodalom/6. Petőfi Sándor.md",
+    "11. F/Irodalom/Szöveggyűjteméy.pdf",
+    "11. F/Irodalom/1. Romantika.md",
+    "11. F/Irodalom/2. Himnusz, Szózat.md",
+    "11. F/Nyelvtan/3. Hétköznapi - művészi kommunikáció.md",
+    "11. F/Nyelvtan/2. A nonverbális kommunikáció.md",
+    "11. F/Nyelvtan/1. Nyelv és társadalom.md",
+    "11. F/Történelem/3. Reformáció",
+    "11. F/Történelem/3. Reformáció/1. Drawing 2026-10-13 10.00.23.excalidraw.md",
+    "11. F/Irodalom/5. Rapszódia.md",
     "11. F/Irodalom/5. Drámai költemény.md",
     "11. F/Irodalom/0. Random stuffs/1. Kisérettségi tételek.md",
     "11. F/Irodalom/4. Drawing 2026-10-01 14.29.08.excalidraw.md",
     "11. F/Irodalom/0. Random stuffs",
-    "11. F/Nyelvtan/2. A nonverbális kommunikáció.md",
-    "11. F/Nyelvtan/1. Nyelv és társadalom.md",
     "11. F/Nyelvtan/1. Drawing 2026-09-23 11.05.30.excalidraw.md",
-    "11. F/Történelem/3. Reformáció.md",
     "11. F/Történelem/2. Nagy földrajzi felfedezések/5. Abszolutizmus.md",
     "11. F/Irodalom/3. Kölcsey Ferenc lírája.md",
     "11. F/Történelem/1. Magyarság története/3. Hunyadi Mátyás.md",
@@ -220,24 +244,14 @@
     "10. F/Történelem/1. Középkor/3. Laboratores.md",
     "11. F/Történelem/2. Nagy földrajzi felfedezések/4. Korai kapitalizmus.md",
     "11. F/Történelem/2. Nagy földrajzi felfedezések/3. Födrajzi felfedezések.md",
-    "11. F/Irodalom/Szöveggyűjteméy.pdf",
     "10. F/Történelem/2. Magyarság története/1. Árpád házi királyok kora/2. Szent István uralkodása.md",
     "10. F/Biológia/2. Embertan/2. Mozgás szervrendszere.md",
-    "10. F/Biológia/2. Embertan/7. Vércsoport.md",
-    "10. F/Biológia/2. Embertan/Rajzok/7. 0-antigen Drawing 2026-02-05 13.35.05.excalidraw 1 1.md",
-    "10. F/Magyar/1. Szövegtan/4. Az intertextualitás.md",
-    "11. F/Történelem/2. Nagy földrajzi felfedezések/2. Új földrész (Amerika).md",
-    "11. F/Történelem/2. Nagy földrajzi felfedezések/1. Előzmények.md",
-    "11. F/Irodalom/2. Himnusz, Szózat.md",
     "10. F/Irodalom/Szöveggyűjteméy.pdf",
     "11. F/Nyelvtan",
-    "11. F/Nyelvtan.md",
     "11. F/Történelem/2. Nagy földrajzi felfedezések/1. Kora újkor",
     "11. F/Történelem/1. Magyarság története",
     "11. F/Történelem/2. Nagy földrajzi felfedezések",
     "11. F/Irodalom",
-    "11. F/Történelem",
-    "11. F/Töri",
     "10. F/Földrajz/2. Világgazdaság/6. Pasted image 20260310103337.png",
     "Földrajz/2. Világgazdaság/6. Pasted image 20260310103337.png",
     "Pasted Image 20251106083916_203.png",
